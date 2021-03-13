@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<project version="4">
+
+
+-<component name="ChangeListManager">
+
+<list name="Default Changelist" comment="" id="709a13be-b350-4b89-b442-bfa094e1299c" default="true"/>
+
+<option name="SHOW_DIALOG" value="false"/>
+
+<option name="HIGHLIGHT_CONFLICTS" value="true"/>
+
+<option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false"/>
+
+<option name="LAST_RESOLUTION" value="IGNORE"/>
+
+</component>
+
+<component name="ProjectId" id="1phyQ8JL8UCrnCAO23qbD5l9Fef"/>
+
+
+-<component name="ProjectViewState">
+
+<option name="autoscrollFromSource" value="true"/>
+
+<option name="autoscrollToSource" value="true"/>
+
+<option name="hideEmptyMiddlePackages" value="true"/>
+
+<option name="showLibraryContents" value="true"/>
+
+</component>
+
+
+-<component name="RunManager">
+
+
+-<configuration name="Main" temporary="true" factoryName="Application" type="Application">
+
+<option name="MAIN_CLASS_NAME" value="com.company.Main"/>
+
+<module name="Java2"/>
+
+<option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$"/>
+
+<RunnerSettings RunnerId="Run"/>
+
+<ConfigurationWrapper RunnerId="Run"/>
+
+
+-<method v="2">
+
+<option name="Make" enabled="true"/>
+
+</method>
+
+</configuration>
+
+
+-<recent_temporary>
+
+
+-<list>
+
+<item itemvalue="Application.Main"/>
+
+</list>
+
+</recent_temporary>
+
+</component>
+
+<component name="SpellCheckerSettings" transferred="true" UseSingleDictionary="true" DefaultDictionary="application-level" CustomDictionaries="0" Folders="0" RuntimeDictionaries="0"/>
+
+
+-<component name="TaskManager">
+
+
+-<task id="Default" summary="Default task" active="true">
+
+<changelist name="Default Changelist" comment="" id="709a13be-b350-4b89-b442-bfa094e1299c"/>
+
+<created>1615649601777</created>
+
+<option name="number" value="Default"/>
+
+<option name="presentableId" value="Default"/>
+
+<updated>1615649601777</updated>
+
+</task>
+
+<servers/>
+
+</component>
+
+
+-<component name="WindowStateProjectService">
+
+
+-<state timestamp="1615657124669" key="GridCell.Tab.0.bottom" height="192" width="1323">
+
+<screen height="768" width="1366" y="0" x="0"/>
+
+</state>
+
+<state timestamp="1615657124669" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" height="192" width="1323"/>
+
+
+-<state timestamp="1615657124668" key="GridCell.Tab.0.center" height="192" width="1323">
+
+<screen height="768" width="1366" y="0" x="0"/>
+
+</state>
+
+<state timestamp="1615657124668" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" height="192" width="1323"/>
+
+
+-<state timestamp="1615657124668" key="GridCell.Tab.0.left" height="192" width="1323">
+
+<screen height="768" width="1366" y="0" x="0"/>
+
+</state>
+
+<state timestamp="1615657124668" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" height="192" width="1323"/>
+
+
+-<state timestamp="1615657124668" key="GridCell.Tab.0.right" height="192" width="1323">
+
+<screen height="768" width="1366" y="0" x="0"/>
+
+</state>
+
+<state timestamp="1615657124668" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" height="192" width="1323"/>
+
+</component>
+
+</project>
